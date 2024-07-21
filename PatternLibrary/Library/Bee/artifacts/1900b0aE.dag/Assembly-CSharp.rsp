@@ -368,7 +368,7 @@
 "Assets/Strategy/Base Example/IStrategy.cs"
 "Assets/Strategy/Base Example/Strategies/Strategy1.cs"
 "Assets/Strategy/Base Example/Strategies/Strategy2.cs"
-"Assets/Strategy/Example_1/Contract.cs"
+"Assets/Strategy/Example_1/Contracts.cs"
 "Assets/Strategy/Example_1/Creatures City/Animal.cs"
 "Assets/Strategy/Example_1/Creatures City/ArmsMerchant.cs"
 "Assets/Strategy/Example_1/Creatures City/Creature.cs"
