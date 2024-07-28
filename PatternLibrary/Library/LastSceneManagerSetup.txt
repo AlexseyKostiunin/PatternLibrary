@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Strategy/Scene/Examples Pattern Strategy.unity
+- path: Assets/Decorator/Scene/Examples Pattern Decorator.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
